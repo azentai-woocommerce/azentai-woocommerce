@@ -23,6 +23,6 @@ With features like personalized suggestions, cross-sell/upsell automation, and s
 
 ## Requirements
 
-- WordPress 5.6+
-- WooCommerce 5.0+
+- WordPress 6.2+
+- WooCommerce 8.2+
 - PHP 7.4 or higher
