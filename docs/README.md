@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/assets/azent-ai-product.png" alt="AzentAI Product" width="200">
+</p>
+
 # Introduction
 
 Welcome to the documentation for Smart Product AI for WooCommerce!  
