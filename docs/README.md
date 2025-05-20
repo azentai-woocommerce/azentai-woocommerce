@@ -1,8 +1,7 @@
+# Introduction
 
-# Shipment PHP Documentation
+Welcome to the documentation for Smart Product AI for WooCommerce!  
+This plugin brings advanced AI-powered product recommendations to your WooCommerce store, helping you increase sales and improve customer experience.  
+With features like personalized suggestions, cross-sell/upsell automation, and seamless integration, you can easily boost your store’s performance.
 
-Tài liệu hướng dẫn sử dụng và phát triển module `shipment.php`.
-
-- Tổng quan chức năng
-- Cách sử dụng các hàm chính
-- Hướng dẫn xuất file CSV
+---
