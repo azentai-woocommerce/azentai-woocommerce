@@ -6,6 +6,7 @@
   - [AI Product Recommendations](ai-product-recommendations.md)
   - [AI Personalized Recommendations](ai-personalized.md)
   - [AI Cross-sell/Upsell](ai-cross-sell-upsell.md)
+  - [Tracking & Analytics](tracking-analytics.md) 
 - [Shortcodes & Widgets](shortcode-widget.md)
 - [UI Customization](customization.md)
 - [Rule-based Fallback](rulebase-fallback.md)
