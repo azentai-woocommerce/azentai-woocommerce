@@ -1,4 +1,4 @@
-## Tracking & Analytics
+# Tracking & Analytics
 
 Smart Product AI for WooCommerce provides built-in tracking and analytics to help you measure the effectiveness of your product recommendations and optimize your store’s performance.
 
