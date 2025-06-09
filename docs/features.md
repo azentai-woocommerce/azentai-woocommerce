@@ -10,5 +10,3 @@ Smart Product AI for WooCommerce offers several powerful features:
 - **Tracking & Analytics:** Monitors user activity to improve recommendations and provide insights.
 
 Explore each feature in detail in the following sections.
-
----
