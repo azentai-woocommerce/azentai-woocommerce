@@ -5,5 +5,3 @@
 3. Click **Upload Plugin** and select the ZIP file.
 4. Click **Install Now** and then **Activate**.
 5. After activation, you will see a new menu item for Smart Product AI in your WordPress admin sidebar.
-
----
