@@ -12,6 +12,7 @@
 - [Rule-based Fallback](rulebase-fallback.md)
 - [Tracking & Analytics](tracking.md)
 - [Wishlist Integration](wishlist-integration.md)
+- [Security & Privacy](security-privacy.md)
 - [FAQ & Troubleshooting](faq.md)
 - [Changelog](changelog.md)
 - [Contact & Support](support.md)
